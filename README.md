@@ -56,8 +56,9 @@ For example, the output corresponding to the previous input would be:
 
 ```
 ## Screenshots
-<p>
-![image](https://github.com/makos000/MartianRobots-RedBadger/assets/107891560/b5b0c840-c208-48a8-a0b8-c820aa987234)
+<p float="left">
+  <img src="https://github.com/makos000/MartianRobots-RedBadger/assets/107891560/b5b0c840-c208-48a8-a0b8-c820aa987234" width="250">
+  <img src="https://github.com/makos000/MartianRobots-RedBadger/assets/107891560/df954a9f-a072-4ff5-bd79-d923e2e5e8f9" width="250">
 </p>
 
 
