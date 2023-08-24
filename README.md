@@ -56,6 +56,10 @@ For example, the output corresponding to the previous input would be:
 
 ```
 ## Screenshots
+<p>
+![image](https://github.com/makos000/MartianRobots-RedBadger/assets/107891560/b5b0c840-c208-48a8-a0b8-c820aa987234)
+</p>
+
 
 ## Technologies
 
